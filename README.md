@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=LD4fmseuLgo&t=1s
+
 Installing uv
 
 curl -LsSf https://astral.sh/uv/install.sh | sh
