@@ -26,3 +26,5 @@ git commit -m "Initial commit"
 git remote add origin https://github.com/tryggvef/orpheus-tts.git
 git branch -M master
 git push -u origin master  #Not working on ubuntu...
+
+tull
