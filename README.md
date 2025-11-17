@@ -36,3 +36,4 @@ uv add ruff
 uv run ruff check or format
 
 uv add pytest
+uv run pytest
