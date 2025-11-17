@@ -27,4 +27,12 @@ git remote add origin https://github.com/tryggvef/orpheus-tts.git
 git branch -M master
 git push -u origin master  #Not working on ubuntu...
 
-tull
+uv add python-dotenv
+
+from dotenv import load_dotenv
+load_dotenv()
+
+uv add ruff
+uv run ruff check or format
+
+uv add pytest
